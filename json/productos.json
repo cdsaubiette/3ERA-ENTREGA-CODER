@@ -1,0 +1,100 @@
+[
+    {
+        "id": "1",
+        "nombre": "VueJS",
+        "precio": "$25",
+        "imagen": "images/1.jpg",
+        "enlace": "producto.html"
+    },
+    {
+        "id": "2",
+        "nombre": "AngularJS",
+        "precio": "$25",
+        "imagen": "images/2.jpg",
+        "enlace": "producto.html"
+    },
+    {
+        "id": "3",
+        "nombre": "ReactJS",
+        "precio": "$25",
+        "imagen": "images/3.jpg",
+        "enlace": "producto.html"
+    },
+    {
+        "id": "4",
+        "nombre": "Redux",
+        "precio": "$25",
+        "imagen": "images/4.jpg",
+        "enlace": "producto.html"
+    },
+    {
+        "id": "5",
+        "nombre": "NodeJS",
+        "precio": "$25",
+        "imagen": "images/5.jpg",
+        "enlace": "producto.html"
+    },
+    {
+        "id": "6",
+        "nombre": "SASS",
+        "precio": "$25",
+        "imagen": "images/6.jpg",
+        "enlace": "producto.html"
+    },
+    {
+        "id": "7",
+        "nombre": "HTML5",
+        "precio": "$25",
+        "imagen": "images/7.jpg",
+        "enlace": "producto.html"
+    },
+    {
+        "id": "8",
+        "nombre": "GitHub",
+        "precio": "$25",
+        "imagen": "images/8.jpg",
+        "enlace": "producto.html"
+    },
+    {
+        "id": "9",
+        "nombre": "BULMA",
+        "precio": "$25",
+        "imagen": "images/9.jpg",
+        "enlace": "producto.html"
+    },
+    {
+        "id": "10",
+        "nombre": "TypeScript",
+        "precio": "$25",
+        "imagen": "images/10.jpg",
+        "enlace": "producto.html"
+    },
+    {
+        "id": "11",
+        "nombre": "Drupal",
+        "precio": "$25",
+        "imagen": "images/11.jpg",
+        "enlace": "producto.html"
+    },
+    {
+        "id": "12",
+        "nombre": "JavaScript",
+        "precio": "$25",
+        "imagen": "images/12.jpg",
+        "enlace": "producto.html"
+    },
+    {
+        "id": "13",
+        "nombre": "GraphQL",
+        "precio": "$25",
+        "imagen": "images/13.jpg",
+        "enlace": "producto.html"
+    },
+    {
+        "id": "14",
+        "nombre": "Wordpress",
+        "precio": "$25",
+        "imagen": "images/14.jpg",
+        "enlace": "producto.html"
+    }
+]
